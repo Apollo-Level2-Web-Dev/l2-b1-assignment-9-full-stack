@@ -1,7 +1,5 @@
 # Service Booking and Management Website
 
-# Service Booking and Management Website
-
 ### Introduction
 
 Welcome to the Service Booking and Management Website assignment! In this project, you will be tasked with designing and building a comprehensive online platform that allows users to browse, book, and manage various services. The assignment is divided into three main parts: user-facing features, admin-facing features, and super admin-facing features. Below, you'll find a breakdown of the requirements for each of these categories.
