@@ -1,8 +1,10 @@
-# Service Booking and Management Website
+# Service Booking and Management Website ( Full Stack)
 
 ### Introduction
 
 Welcome to the Service Booking and Management Website assignment! In this project, you will be tasked with designing and building a comprehensive online platform that allows users to browse, book, and manage various services. The assignment is divided into three main parts: user-facing features, admin-facing features, and super admin-facing features. Below, you'll find a breakdown of the requirements for each of these categories.
+
+# Assignment Requirements:
 
 ### User-Facing Features
 
@@ -84,10 +86,10 @@ Welcome to the Service Booking and Management Website assignment! In this projec
 
 - Develop a feature that allows super admins to add new admin users.
 - Provide options for managing admin roles.
-
-### Profile Management
-
-- Create a profile management system for super admins to update their personal information.
+    
+    ### Profile Management
+    
+    - Create a profile management system for super admins to update their personal information.
 
 ### Homepage Contents
 
@@ -114,12 +116,12 @@ Welcome to the Service Booking and Management Website assignment! In this projec
 - Users can browse available services.
 - Implement a search feature allowing users to search services by name, location, and category.
 - Users should be able to filter services by price range and other relevant criteria.
-- Users can select services and choose available dates and times for booking.
+- Users can select services and choose available dates and times for booking(if applicable) .
 - Implement a smooth and user-friendly booking process with confirmation.
 - Users should be able to track the status of their bookings.
 - Users can leave reviews and ratings for services they have booked.
 - Reviews and ratings should be displayed on service listings.
-- Create a notifications center where users receive booking confirmations, reminders, and updates.
+- Create a notifications center where users receive booking confirmations, reminders, and updates ( optional - readonly )
 - Develop a user dashboard displaying booking history and statuses.
 - Users should have the option to cancel bookings if necessary.
 - Design user-friendly feedback forms for users to submit comments and suggestions.
@@ -148,8 +150,8 @@ Welcome to the Service Booking and Management Website assignment! In this projec
 - Integrate a pagination system, filtering capabilities, and sorting functionality into your backend API to enhance the user experience, simplify navigation, and enable convenient access to pertinent data.
 - Prioritize proper error handling throughout your codebase.
 - Maintain coding best practices to ensure code quality and readability.
-- To prevent deployment issues on the backend, avoid using a logger unless it is explicitly required for debugging or monitoring purposes.
-- Dedicate 7 marks for enhancing the user experience of your project. Focus on enhancing usability, accessibility, and overall user satisfaction.
+- To prevent deployment issues on the backend, avoid using a logger & image upload( for multer only)  unless it is explicitly required for debugging or monitoring purposes.
+- Marks for enhancing the user experience of your project. Focus on enhancing usability, accessibility, and overall user satisfaction.
 
 ### Examples of Services
 
